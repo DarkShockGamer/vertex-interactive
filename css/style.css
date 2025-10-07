@@ -17,7 +17,7 @@ header {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 20px 8%;
+  padding: 8px 8%;
   background: rgba(15, 15, 15, 0.9);
   position: fixed;
   width: 100%;
@@ -186,3 +186,4 @@ footer {
   font-size: 0.9rem;
 
 }
+
