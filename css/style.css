@@ -141,7 +141,7 @@ h2 {
 .about p {
   text-align: center;
   max-width: 800px;
-  margin: 15px auto;
+  margin: 0 auto 20px;
   text-align: center;
   line-height: 1.7;
 }
@@ -187,6 +187,7 @@ footer {
   font-size: 0.9rem;
 
 }
+
 
 
 
