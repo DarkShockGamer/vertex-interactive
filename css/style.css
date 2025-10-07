@@ -139,6 +139,7 @@ h2 {
 
 /* About */
 .about p {
+  text-align: center;
   max-width: 800px;
   margin: 15px auto;
   text-align: center;
@@ -186,5 +187,6 @@ footer {
   font-size: 0.9rem;
 
 }
+
 
 
